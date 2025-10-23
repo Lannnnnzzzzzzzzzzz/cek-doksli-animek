@@ -81,7 +81,7 @@ const ResultDetail: React.FC<ResultDetailProps> = ({ result, anilistInfo, isLoad
                 </div>
             </div>
              <footer className="flex-shrink-0 text-center py-3 text-gray-600 text-sm border-t border-gray-700">
-                Created by Ogya Adyatma Putra | Powered by trace.moe
+                Created by Lnn Zphry | Powered by trace.moe
             </footer>
         </div>
     );
