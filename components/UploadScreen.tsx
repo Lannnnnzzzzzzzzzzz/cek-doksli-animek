@@ -50,7 +50,7 @@ const UploadScreen: React.FC<UploadScreenProps> = ({ onFileSelect, error, fileIn
                 </div>
             )}
             <footer className="absolute bottom-4 text-gray-600 text-sm">
-                Created by Ogya Adyatma Putra | Powered by trace.moe
+                Created by Lnn Zphry  | Powered by trace.moe
             </footer>
         </div>
     );
